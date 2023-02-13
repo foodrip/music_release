@@ -1,0 +1,10 @@
+.list-group-item:hover{
+    outline: 4px solid #ffdb4d;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.progressbar{
+    height: 10px;
+    width: 100%;
+}

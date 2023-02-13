@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&display=swap');
+
+.albums .card:hover{
+    outline: 4px solid #ffdb4d;
+    cursor: pointer;
+}
+
+.albums a{
+    color: grey;
+}
